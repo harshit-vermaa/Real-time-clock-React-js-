@@ -1,0 +1,21 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  background: url(../afternoon.jpg);
+  background-size: cover ;
+  height: 100%;
+  width: 100%;
+}
+.main
+{
+  
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
